@@ -1,1 +1,1 @@
-![test](https://github.com/Allenyzx/page/blob/master/test.md)
+[test](https://github.com/Allenyzx/page/blob/master/test.md)
